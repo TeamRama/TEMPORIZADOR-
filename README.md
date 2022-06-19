@@ -1,3 +1,6 @@
 LINK DEL SITIO WEB
 
-https://temporizador01.netlify.app/    
+https://temporizador01.netlify.app/  
+
+
+EL TEMPORIZADOR ESTA MARCANDO LOS DIAS QUE FALTAN DESDE LA FECHA ACTUAL ,  HASTA EL DIA 25 DE DICIEMBRE DEL 2022 
